@@ -28,3 +28,5 @@ It could be re-set by the included app file or directly by the .ino sketch.
 
 
 The .apk file allows you to connect to the lamp and set your timer.
+
+More on https://pierstefanobellani.com/Jansjo.html
