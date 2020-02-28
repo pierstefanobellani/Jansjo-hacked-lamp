@@ -28,5 +28,6 @@ It could be re-set by the included app file or directly by the .ino sketch.
 
 
 The .apk file allows you to connect to the lamp and set your timer.
+The .aia file allows you to edit the app using MIT App Inventor (https://appinventor.mit.edu/). 
 
 More on https://pierstefanobellani.com/Jansjo.html
